@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "totalFiles": 1,
+    "approvedCount": 1,
+    "rejectedCount": 0,
+    "pendingCount": 0
+  },
+  "files": [
+    {
+      "name": "Test.pdf",
+      "status": "approved",
+      "comment": "test1.ap",
+      "reviewedAt": "2025-12-14T08:59:01.946Z"
+    }
+  ]
+}
